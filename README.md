@@ -12,7 +12,7 @@ This project is a **Mini CRM Platform** built as part of the **Xeno SDE Internsh
 
 ## 📚 Table of Contents
 
-- [🔗 Live Demo](#-live-demo)
+- [🔗 Live Demo]([#-live-demo](https://crm-xeno-gamma.vercel.app/))
 - [🎥 Demo Video](#-demo-video)
 - [✨ Features Implemented](#-features-implemented)
 - [🛠 Tech Stack](#-tech-stack)
